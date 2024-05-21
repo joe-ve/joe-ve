@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel Shaji</h1>
 <h3 align="center">A budding programmer from India</h3>
 
-- 🔭 I’m currently working on **Login Authentication**
+- 🔭 I’m currently working on **Internship Projects**
 
 - 📫 How to reach me **donboscojoe7@gmail.com**
 
