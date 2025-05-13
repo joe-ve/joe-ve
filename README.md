@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BidBoard : Auction Management System<br>🌱 I’m currently learning : Cloud Computing, Machine Learning, Ethical Hacking, Software Testing, Android Programming<br>💬 Ask me about : HTML, CSS, Python, Java, DBMS
+🔭 I’m currently working on F1 Prediction Model and F1 Discord Bot<br>🌱 I’m currently learning : Cloud Computing, Machine Learning, Ethical Hacking, Software Testing, Android Programming<br>💬 Ask me about : HTML, CSS, Python, Java, DBMS, Software Testing
 
 
 ## 🌐 Socials:
